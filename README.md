@@ -6,3 +6,4 @@ nova mensagem
 
 Linha adicionada no branch develop
 
+info adicionada pelo colega
